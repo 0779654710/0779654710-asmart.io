@@ -1,11 +1,11 @@
 # 1. Make sure you are in your project directory
 cd /c/xampp/htdocs/github/0779654710-asmart.io
 
-# 2. Stage all changes (new, modified, deleted files)
+
 git add .
 
-# 3. Commit your changes with a message
+
 git commit -m "Describe your update here"
 
-# 4. Push your changes to GitHub
+
 git push origin main
